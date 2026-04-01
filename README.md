@@ -23,30 +23,22 @@ always focused on the question behind the numbers.
 
 ## 📂 Projects
 
-### 🛍️ [NovaRetail – Customer Segmentation & Marketing Effectiveness](link)
+### 🛍️ [NovaRetail – Customer Segmentation & Marketing Effectiveness](https://github.com/asad1alee1/novaretail-marketing-analysis)
 `Python` `scikit-learn` `pandas` `seaborn`
 > Full marketing analytics pipeline: RFM analysis, K-means customer 
 > segmentation (Champions / Engaged Potentials / Discount Hunters / 
 > Dormant), acquisition channel CLV comparison, email engagement 
 > analysis, and discount ROI measurement.
 
-### 📊 [Cross-Country Sales Analytics](link)
-`Python` `SQL` `DuckDB` `Power BI`
+### 📊 [Cross-Country Sales Analytics](https://github.com/asad1alee1/fluffy-spork)
+`Python` `SQL` `DuckDB`
 > Analyzed €1.38M in retail transactions across 5 European markets 
 > (2023–2025). Computed country-level revenue breakdowns, monthly 
 > trends, and seasonal peaks using SQL queries and Python 
 > visualizations.
 
-### 🎓 [Returns to Education – IV Regression & Causal Inference](link)
-`R` `ivreg` `sandwich`
-> Replicated Card (1995) using college proximity as an instrumental 
-> variable for education in a wage regression (n=3,000+). Validated 
-> instrument strength via F-test (13.3 > 10) and Wu-Hausman test. 
-> IV estimate (13.1%) exceeded OLS (7.5%), consistent with 
-> attenuation bias from measurement error.
-
-### 📉 [Attenuation Bias – Monte Carlo Simulation](link)
-`R` `ggplot2` `broom` `dplyr`
+### 📉 [Attenuation Bias – Monte Carlo Simulation](https://github.com/asad1alee1/silver-carnival)
+`R` `ggplot2` `dplyr` `tidyr` `broom`
 > Built a 1,000-iteration simulation to quantify how measurement 
 > error in an independent variable biases OLS regression coefficients 
 > toward zero. Computed 95% confidence interval coverage rates to 
